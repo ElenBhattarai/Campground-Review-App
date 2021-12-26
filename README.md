@@ -4,3 +4,10 @@ This is a campground review webapp I created from the course I did called "The W
 
 I deployed the app using Heroku. You can visit the webapp live through the link here: https://tranquil-citadel-24717.herokuapp.com/
 
+Features:
+• Webapp supports user signup/ login, posting new campgrounds, posting reviews, comments, and editing/deleting previous submissions. 
+•	Designed and implemented MongoDB infrastructure to store campgrounds, reviews, comments and relevant information associated with users and campgrounds.
+•	Used MapBox API to add a cluster map in the homepage showing locations of all the campgrounds in the world entered in the website’s database.
+•	Deployed website using Heroku.
+•	Used: HTML, CSS, Bootstrap, Node.js, Express.js, MongoDB
+
