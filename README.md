@@ -1,6 +1,6 @@
 # Yelp Camp
 
-This is a campground review webapp I created from the course I did called "The Web Developer Bootcamp" by Colt Steele.<br>
+This is a campground review webapp I created after I did the course called "The Web Developer Bootcamp" by Colt Steele.<br>
 
 I deployed the app using Heroku. You can visit the webapp live through the link here: https://tranquil-citadel-24717.herokuapp.com/<br>
 
